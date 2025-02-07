@@ -35,8 +35,8 @@ Esse projeto foi desenvolvido para uma apresentação sobre matemática. Constru
 - math
 - Collections
 
-## Documentação
 ---
+## Documentação
 - [Collections](https://docs.python.org/3/library/collections.html)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Socket](https://docs.python.org/3/library/socket.html)
