@@ -22,7 +22,7 @@ Esse projeto teve como base um jogo chamado "Correio Elegante". Realizamos esse 
 - socket
 
 ## Socket
-Nesse projeto é modelo de comunicação, para tranferencias de mensagens e imagens apartir de um socket. Onde o usuario insere uma mensagem, ou imagem e o programa envia essa mensagem/imagem em um buffer pelo protocolo UDP.
+Esse projeto é modelo de comunicação, para tranferencias de mensagens e imagens apartir de um socket. Onde o usuario insere uma mensagem, ou imagem e o programa envia essa mensagem/imagem em um buffer pelo protocolo UDP.
 #### Tecnologias 
 - Python
 - os
