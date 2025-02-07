@@ -1,6 +1,6 @@
 
 # Scripts
----
+
 Esses são só alguns das centenas de projetos realizados ao longo do curso técnico no IFPB.
 
 
@@ -10,7 +10,7 @@ Esses são só alguns das centenas de projetos realizados ao longo do curso téc
 - [@Hellenilda](https://www.github.com/hellenilda)
 
 ### IA
----
+
 Esse projeto contem um modelo de linguagem ao qual recebe dados de uma pessoa e prevê as melhores condições de treinos físicos para ela, apartir de seus dados retonando três saidas (titulo/descrição/link).
 #### Tecnologias 
 - Python
