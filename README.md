@@ -10,30 +10,31 @@ Esses são só alguns das centenas de projetos realizados ao longo do curso téc
 ## IA
 Esse projeto contem um modelo de linguagem ao qual recebe dados de uma pessoa e prevê as melhores condições de treinos físicos para ela, apartir de seus dados retonando três saidas (titulo/descrição/link).
 #### Tecnologias 
-- Python
 - Pandas
 - Sklearn
 
 ## Letter Me
 Esse projeto teve como base um jogo chamado "Correio Elegante". Realizamos esse projeto onde os usuarios podem trocar mensagens entre si (via protocolos de rede através de sockets) sem a sua identificação para fins de regra do jogo.
 #### Tecnologias 
-- Python
 - Tkinter
 - socket
 
 ## Socket
 Esse projeto é modelo de comunicação, para tranferencias de mensagens e imagens apartir de um socket. Onde o usuario insere uma mensagem, ou imagem e o programa envia essa mensagem/imagem em um buffer pelo protocolo UDP.
 #### Tecnologias 
-- Python
 - os
 - socket
 
 ## Fatorial
 Esse projeto foi desenvolvido para uma apresentação sobre matemática. Construimos um script capaz de calcular anagramas. Onde o usuario insere uma palavra e o script retorna o número de anagramas em uma interface no próprio terminal. 
 #### Tecnologias 
-- Python
 - math
 - Collections
+
+## Varredor de Pastas
+Esse script serve para varrer todas as pastas e arquivos de uma determinada pasta, e registra seus nomes em um arquivo ´saida.txt´. Para rodar você precisa mudar o valor da variavel ´PATH_B´ que se encontra na linha 15, digite o nome do diretório ao qual pretende varrer.
+#### Tecnologias 
+- os
 
 ---
 ## Documentação
