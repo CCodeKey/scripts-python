@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido para uma apresentação sobre matemática. Constru
 - Collections
 
 ## Varredor de Pastas
-Esse script serve para varrer todas as pastas e arquivos de uma determinada pasta, e registra seus nomes em um arquivo ´saida.txt´. Para rodar você precisa mudar o valor da variavel ´PATH_B´ que se encontra na linha 15, digite o nome do diretório ao qual pretende varrer.
+Esse script serve para varrer todas as pastas e arquivos de um determinado diretório, e registra seus nomes em um arquivo ´saida.txt´. Para executar o script você vai precisar alterar o valor da variavel ´PATH_B´ que se encontra na linha 15, para o nome do diretório ao qual você pretende varrer.
 #### Tecnologias 
 - os
 
