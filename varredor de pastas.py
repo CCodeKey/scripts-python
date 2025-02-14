@@ -12,7 +12,7 @@ def listar_arquivos_pastas(diretorio, saida):
                 arquivo_saida.write(f"{sub_indentacao}- {arquivo}\n")
 
 if __name__ == "__main__":
-    PATH_B = "/media/code/DRIVERS"
+    PATH_B = "" # <-- Passe seu diretório
     saida_arquivo = "saida.txt"
     listar_arquivos_pastas(PATH_B, saida_arquivo)
     print(f"Listagem concluída! Verifique o arquivo {saida_arquivo}")
