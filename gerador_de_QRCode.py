@@ -1,5 +1,5 @@
 import segno
-seuLink = "https://github.com/CCodeKey/IFit"
+seuLink = "https://exemplo.com"
 corDoQR = "#191919"
 corDoFundo = "#f4a100"
 img = segno.make(seuLink)
